@@ -7,7 +7,7 @@ permalink: /mabs2023/postproceedings/
 We invite authors of accepted and presented papers and the invited speaker to submit extended papers to a post-proceedings volume in [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"} scheduled to be published on early 2024. Extended papers will undergo a peer-review process before publication in the post-proceedings.
 
 <p align="center">
-  <img src="../assets/img/lnai-logo.png" />
+  <img src="../../assets/img/lnai-logo.png" />
 </p>
 
 ## Important Dates
