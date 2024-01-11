@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Invited Talk
-permalink: /invited/
+permalink: /mabs2023/invited/
 ---
 
 **Combining Constraint-Based and Imperative Programming in MABS**<br/>
