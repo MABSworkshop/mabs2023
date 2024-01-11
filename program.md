@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Program
-permalink: /program/
+permalink: /mabs2023/program/
 ---
 
 <table id="mabs2023-schedule">

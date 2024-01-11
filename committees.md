@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Committees
-permalink: /committees/
+permalink: /mabs2023/committees/
 ---
 
 ## Program Chairs

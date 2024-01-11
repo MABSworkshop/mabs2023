@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Call for Papers
-permalink: /cfp/
+permalink: /mabs2023/cfp/
 ---
 
 MABS 2023 is part of the AAMAS 2023 conference taking place at [ExCel London](https://www.excel.london/){:target="_blank"} in London, UK on May 30, 2023.

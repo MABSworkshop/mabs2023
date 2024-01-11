@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accepted Papers
-permalink: /accepted_papers/
+permalink: /mabs2023/accepted_papers/
 ---
 
 | Author(s) | Title |
