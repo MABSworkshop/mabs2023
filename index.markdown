@@ -6,6 +6,12 @@ permlink: /mabs2023/
 
 ---
 
+**The MABS 2023 post-proceedings volume in [Springer Multi-Agent-Based Simulation book series](https://link.springer.com/conference/mabs) has been published and can be accessed via [Springer Link (LNCS 14558)](https://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=14558)**
+
+---
+
+---
+
 ## Best Paper Award
 
 **Active Sensing for Epidemic State Estimation using ABM-guided Machine Learning** [<a href="../articles/salibaEtAl2023.pdf" target="_blank">PDF</a>] [<a href="../presentations/swarupEtAl2023-presentation.pdf" target="_blank">Presentation</a>]<br/>_Sami Saliba, Faraz Dadgostari, Stefan Hoops, Henning S. Mortveit, Samarth Swarup_
